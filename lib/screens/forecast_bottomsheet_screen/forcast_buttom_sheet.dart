@@ -1,6 +1,4 @@
-import 'package:weather_zone/models/days_forecast.dart';
 import 'package:weather_zone/providers/my_providers.dart';
-import 'package:weather_zone/ui/forecast_bottomsheet/forcast_bottom_sheetviewmodel.dart';
 import '../../constants/exports.dart';
 
 class ForcastModal extends ConsumerStatefulWidget {

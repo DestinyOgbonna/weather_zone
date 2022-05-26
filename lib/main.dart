@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:weather_zone/ui/home/home_view.dart';
+import 'package:weather_zone/screens/home/home_view.dart';
+
 
 void main() {
   runApp(
